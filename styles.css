@@ -1,0 +1,21 @@
+body {
+  background-color: blue;
+}
+
+#form {
+  display: flex;
+  justify-content: center;
+  margin-top: 30rem;
+}
+
+#text-input {
+  height: 2rem;
+  width: 10rem;
+}
+
+#check-btn {
+  height: 2rem;
+  width: 5rem;
+  background-color: black;
+  color: white;
+}
